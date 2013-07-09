@@ -1,4 +1,4 @@
 Email-signature
 ===============
 
-My email signatures 
+My email signature
